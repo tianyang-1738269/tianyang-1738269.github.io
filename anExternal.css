@@ -1,0 +1,11 @@
+.floating {
+    float: right;
+    font-size: 35px;
+    border-style: solid;
+}
+
+.round {
+    border-radius: 25px;
+    border: 2px solid #000000;
+    display: inline-block;
+}
